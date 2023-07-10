@@ -1,0 +1,1 @@
+{"name":"Local: graph","url":"c:\\coding\\tree and graph\\graph.cpp","tests":[{"id":1643955650934,"input":"5\n5\n1 3\n1 2\n2 3\n4 5\n3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\coding\\tree and graph\\graph.cpp","group":"local","local":true}
